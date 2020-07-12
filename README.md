@@ -1,3 +1,3 @@
 # hello-docker
-repo for hello docker
-# this is added by echo
+repo for hello docker [![CircleCI](https://circleci.com/gh/ZZsui/hello-docker.svg?style=svg)](https://circleci.com/gh/ZZsui/hello-docker) 
+
